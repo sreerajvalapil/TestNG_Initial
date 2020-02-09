@@ -25,6 +25,7 @@ public class first {
 	public void bmethod()
 	{
 		System.out.println("Before method of class first");
+		System.out.println("llllllloooooovvvveeeee");
 	}
 
 }
