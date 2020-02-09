@@ -26,6 +26,7 @@ public class first {
 	{
 		System.out.println("Before method of class first");
 		System.out.println("llllllloooooovvvveeeee");
+		System.out.println("lalalal");
 	}
 
 }
