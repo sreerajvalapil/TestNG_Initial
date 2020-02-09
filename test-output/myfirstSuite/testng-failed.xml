@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [myfirstSuite]" guice-stage="DEVELOPMENT">
+  <test name="YahooLoginTest(failed)">
+    <parameter name="browser" value="chrome"/>
+    <parameter name="url" value="https://se.yahoo.com/?p=us"/>
+    <parameter name="username" value="s.yahoo.com"/>
+    <classes>
+      <class name="com.Learning.Parameterisation">
+        <methods>
+          <include name="Logincheck" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.Learning.Parameterisation -->
+    </classes>
+  </test> <!-- YahooLoginTest(failed) -->
+</suite> <!-- Failed suite [myfirstSuite] -->

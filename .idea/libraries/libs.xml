@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="file://C:/Tools/selenium-java-3.141.59/libs" />
+      <root url="file://C:/Tools/selenium-java-3.141.59" />
+      <root url="jar://C:/Tools/testng-6.7.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://C:/Tools/commons-io-2.6-bin/commons-io-2.6/docs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://C:/Tools/selenium-java-3.141.59" />
+    </SOURCES>
+    <jarDirectory url="file://C:/Tools/selenium-java-3.141.59" recursive="false" />
+    <jarDirectory url="file://C:/Tools/selenium-java-3.141.59/libs" recursive="false" />
+    <jarDirectory url="file://C:/Tools/selenium-java-3.141.59" recursive="false" type="SOURCES" />
+  </library>
+</component>
